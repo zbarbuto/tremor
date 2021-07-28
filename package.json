@@ -1,0 +1,35 @@
+{
+  "name": "tremor",
+  "version": "1.0.0",
+  "description": "A quake-style drop-down browser you can open from anywhere",
+  "main": "index.js",
+  "author": "Zak Barbuto <zbarbuto@nextfaze.com>",
+  "scripts": {
+    "start": "npx electron .",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.1.7",
+    "electron-builder": "^22.11.7"
+  },
+  "optionalDependencies": {
+    "dmg-license": "^1.0.9"
+  },
+  "build": {
+    "appId": "com.nextfaze.tremor",
+    "productName": "Tremor",
+    "mac": {
+      "category": "public.app-category.productivity"
+    },
+    "dmg": {
+      "icon": false
+    },
+    "linux": {
+      "target": [
+        "AppImage"
+      ],
+      "category": "Office"
+    }
+  }
+}
