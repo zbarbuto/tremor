@@ -24,13 +24,13 @@ Launch the app then `` CTRL+ALT+` `` to summon browser. Note, it opens on the mo
 
 **Note** You will likely have to trust un-trusted developers when launching as I haven't setup signing/notarizing for it yet.
 
-### Can it use my normal chrome profile?
+### Can it use my normal chrome profile so I stay logged into things?
 
-Probably but I don't know how yet
+Probably, but I don't know how yet - haven't looked into it ([#1](https://github.com/zbarbuto/tremor/issues/1))
 
 ### Can it open an address bar instead of google search by default?
 
-Yes, I'll do it later. I made this in 30 minutes so didn't really put much thought into features.
+Yes, I'll do it later. I made this in 30 minutes so didn't really put much thought into features yet ([#3](https://github.com/zbarbuto/tremor/issues/3))
 
 ### "Tremor"?
 
