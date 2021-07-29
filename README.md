@@ -1,10 +1,12 @@
-# TREMOR
+<div align="center">
+  <h1>Tremor</h1>
+</div>
 
+<div align="center">
 <img src="icon/icon.png" width="150">
-  
-### A quake-style drop-down browser you can open from anywhere
-  
-![Tremor Demo](./tremor.gif)
+<h3> A quake-style drop-down browser you can open from anywhere</h3>
+<img src="tremor.gif">
+</div>
 
 ## FAQ
 
