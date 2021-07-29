@@ -1,5 +1,3 @@
-<center>
-
 # TREMOR
 
 <img src="icon/icon.png" width="150">
@@ -37,5 +35,3 @@ Yes, I'll do it later. I made this in 30 minutes so didn't really put much thoug
 ### "Tremor"?
 
 Quake -> Earthquake -> Tremors.... I dunno, you name it!
-
-</center>

@@ -68,6 +68,9 @@ app.whenReady().then(() => {
     },
   ]);
 
+  // No need for tray icon on mac since we have the tray icon
+  app.dock.hide();
+
   tray = new Tray(
     nativeImage
       .createFromPath(
