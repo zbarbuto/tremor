@@ -22,7 +22,7 @@ With Tremor, you can quickly pull up a browser tab, do your task and then have t
 
 Head over to the [releases page](https://github.com/zbarbuto/tremor/releases) and download the latest.
 
-Launch the app `` then CTRL+ALT+`  `` to summon browser. Note, it opens on the monitor your cursor is on.
+Launch the app then `` CTRL+ALT+` `` to summon browser. Note, it opens on the monitor your cursor is on.
 
 **Note** You will likely have to trust un-trusted developers when launching as I haven't setup signing/notarizing for it yet.
 
