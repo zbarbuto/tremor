@@ -6,7 +6,7 @@
   "author": "Zak Barbuto <zbarbuto@nextfaze.com>",
   "homepage": "https://github.com/zbarbuto/tremor",
   "scripts": {
-    "start": "npx electron .",
+    "start": "electron .",
     "postinstall": "electron-builder install-app-deps"
   },
   "license": "ISC",
