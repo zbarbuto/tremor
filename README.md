@@ -6,8 +6,10 @@
   
 ### A quake-style drop-down browser you can open from anywhere
   
+![Tremor Demo](./tremor.gif)
+
 ## FAQ
-  
+
 ### Why?
 
 TL;DR: Because I wanted one and couldn't find one.
